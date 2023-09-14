@@ -1,0 +1,39 @@
+---
+title: "Current research"
+format: 
+  html:
+    toc: true
+    self-contained: true
+editor: source
+author: Maryana Balezina
+theme: flatly
+execute: 
+  cache: true
+  warning: false
+  message: false
+  fig-width: 12 
+  fig-height: 9
+---
+
+I am currently working on **morality politics** and **trans\* discrimination**. What kind of moralizing language is used in debates around trans\* policies? How does moralization of the issue influence individuals' beliefs and attitudes towards trans\* people? Do people think some exclusionary policies can be fair?
+
+While these questions come from different fields and research areas, I believe all of them to be relevant to the current "moral panic" around trans\* people and the harm it brings their way.
+
+Currently, I am working on the first outlined question within the text-as-data approach. I have collected transcripts of debates from the last two years in the US Senate and UK House of Commons and applied Moral Foundations Dictionary 2.0 to conduct cross-country and, to some extent, cross-party comparisons. Here are my current hypotheses:
+
+1.  The foundation of Care is the most frequently referenced foundation across countries and parties.
+2.  Moralized terms are more frequently used in the US debates, compared to UK debates.
+3.  The use of moral foundations is not significantly different across parties in both the UK and the US.
+
+I am still in the process of finalizing the data set. But, preliminary data confirms H1 and H2, whereas H3 showed mixed results. Below, you can see the percentage of words from each moral foundation for the UK and the US data sets by parties.
+
+::: {#fig-graphs layout-ncol=2}
+
+![](moral dimenstions UK.png)
+
+![](moral dimensions US.png)
+
+Preliminary data
+:::
+
+That's all I can say for now. More to come!

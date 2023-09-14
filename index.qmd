@@ -1,0 +1,59 @@
+---
+title: "Maryana Balezina"
+subtitle: "they/them"
+
+about:
+  id: main-part
+  template: trestles
+  image: profile.jpg
+  image-shape: round
+  links:
+#    - icon: twitter
+#      text: twitter
+#      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com/maryanabalezina
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/maryana-balezina/
+    - icon: bank
+      text: OSF
+      href: https://osf.io/x7968/
+    - icon: envelope
+      text: Email
+      href: "mailto:balezina.maryana@gmail.com" 
+---
+
+:::{#main-part}
+
+Hi! Welcome to my academic website.
+
+I'm a **social psychologist** and a **gender studies** scholar currently preoccupied with getting a **political science** PhD in Aarhus University.
+
+## Education
+
+**Aarhus University** \| Aarhus, Denmark <br> PhD in Political Science <br> Feb 2023 - now
+
+**CEU** \| Budapest, Hungary & Vienna, Austria <br> MA in Critical Gender Studies <br> Sept 2019 - June 2021
+
+**HSE University** \| Moscow, Russia <br> BA in Psychology <br> Sept 2015 - June 2019
+
+:::
+
+## Publications
+
+- **Balezina** M., Zakharova S. (2023). Measuring Attitudes Towards Rape in Russia: Translation and Validation of the Illinois Rape Myths Acceptance Scale. *Current Psychology*, doi: [10.1007/s12144-023-04666-2](https://link.springer.com/article/10.1007/s12144-023-04666-2)
+- Agadullina E.R., Lovakov A.V., **Balezina** M., Gulevich O. A. (2022). Ambivalent sexism and violence towards women:
+a meta-analysis. *European Journal of Social Psychology*, doi: [10.1002/ejsp.2855](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.2855)
+- **Balezina** M., Agadullina E. (2022). *Devaluation of women’s bisexual identity: the role of gender, sexuality, and ambivalent sexism*. WP BRP Series: Psychology. [link](https://wp.hse.ru/data/2022/11/12/1727876113/133PSY2022.pdf)
+
+## Ask me about...
+I am still passionate about many topics from my former educational settings. Feel free to reach out, if you want to know more about the following issues in a more casual manner:
+
+- The role of colonial medical establishments in the history of sexuality
+- Homonationalism and its downfall in CEE
+- Ambivalent sexism theory: why benevolent sexism is not better
+- Homophobia and national identity in contemporary Russia
+
+
