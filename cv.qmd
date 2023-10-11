@@ -11,7 +11,7 @@ cv:
   pdf: "cv.pdf"
 ---
 
-As of July 2023.
+As of September 2023.
 
 ```{css echo=FALSE}
 .embed-container {

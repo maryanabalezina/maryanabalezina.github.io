@@ -27,11 +27,10 @@ Currently, I am working on the first outlined question within the text-as-data a
 
 I am still in the process of finalizing the data set. But, preliminary data confirms H1 and H2, whereas H3 showed mixed results. Below, you can see the percentage of words from each moral foundation for the UK and the US data sets by parties.
 
-::: {#fig-graphs layout-ncol=2}
+::: {#fig-graphs layout-ncol="2"}
+![](moral%20dimenstions%20UK.png)
 
-![](moral dimenstions UK.png)
-
-![](moral dimensions US.png)
+![](moral%20dimensions%20US.png)
 
 Preliminary data
 :::
