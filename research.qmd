@@ -15,24 +15,14 @@ execute:
   fig-height: 9
 ---
 
-I am currently working on **morality politics** and **trans\* discrimination**. What kind of moralizing language is used in debates around trans\* policies? How does moralization of the issue influence individuals' beliefs and attitudes towards trans\* people? Do people think some exclusionary policies can be fair?
+## Including trans* athletes: it's not only about prejudice
 
-While these questions come from different fields and research areas, I believe all of them to be relevant to the current "moral panic" around trans\* people and the harm it brings their way.
+I am currently working on **sport policies** and **trans\* discrimination**. The idea for this research came from a hunch that maybe with some sporting competition, people get agitated about trans* inclusionary policies more often, than in other sports. For example, one would probably not be against inclusion of trans* athletes into a charity race where participant pay a little fee to enter the competition and the money go to a charity; but, if at the end of the race the winner gets all the money, some might show reservation towards trans* inclusion, especially when it comes to trans* women competing against cis women. Following this intuition led me to learning a lot of random facts about sporting competitions, but also to a realization that even people who have negative attitudes towards trans* individuals might still show some support for trans* inclusionary policies under certain conditions.
 
-Currently, I am working on the first outlined question within the text-as-data approach. I have collected transcripts of debates from the last two years in the US Senate and UK House of Commons and applied Moral Foundations Dictionary 2.0 to conduct cross-country and, to some extent, cross-party comparisons. Here are my current hypotheses:
+After 2024 Olympics I conducted a survey experiment in the US, where I asked participants to share their opinion on a proposed policy that regulates participation of trans* athletes. The results somewhat supported my intuition. I am working on the paper draft right now and hopefully will be able to talk about the results more openly at a later point. 
 
-1.  The foundation of Care is the most frequently referenced foundation across countries and parties.
-2.  Moralized terms are more frequently used in the US debates, compared to UK debates.
-3.  The use of moral foundations is not significantly different across parties in both the UK and the US.
+## Fair and/but discriminatory? The role of percieved discrimination in policy support
 
-I am still in the process of finalizing the data set. But, preliminary data confirms H1 and H2, whereas H3 showed mixed results. Below, you can see the percentage of words from each moral foundation for the UK and the US data sets by parties.
+Another intuition that I had about trans* athletes was that maybe people see some policies as discriminatory, but justifiably discriminatory. For example, one can argue that discriminating against trans* women in sport is required to keep the competition fair. It is wrong to exclude, but under certain conditions it is fair and necessary. This seems somewhat counterintuitive, considering that usually folk call unfair behavior discriminatory (or discriminatory behavior unfair), which indicates that the concepts of discrimination and fairness are tightly connected. But in the hypothetical argument given, it feels like people talk about a different kind of fairness. What do people mean, then, when they say a policy is fair or discriminatory? And does it affect whether people are supportive of a policy?
 
-::: {#fig-graphs layout-ncol="2"}
-![](moral%20dimenstions%20UK.png)
-
-![](moral%20dimensions%20US.png)
-
-Preliminary data
-:::
-
-That's all I can say for now. More to come!
+I'm still thinking about these question and have yet to find certain answers. I plan to answer these concerns by focusing on sports ethics and discrimination theory literature, as I believe those field can more precisely reflect the meaning behind big concepts like "fairness" in sports. Though, at the end of the day, I enjoy asking folk people and having empirical data, so this is going to be more of an x-phi paper on the relationship between the two concepts in lay people.  

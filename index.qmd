@@ -1,5 +1,5 @@
 ---
-title: "Maryana Balezina"
+title: "MJ (Maryana) Balezina"
 subtitle: "they/them"
 
 about:
@@ -26,7 +26,9 @@ about:
 
 Hi! Welcome to my academic website.
 
-I'm a **social psychologist** and a **gender studies** scholar currently preoccupied with getting a **political science** PhD in Aarhus University.
+I'm a social science scholar with a background in social psychology and gender studies. I am currently doing my PhD in **political science** at Aarhus University, Denmark.
+
+**Key interests:** discrimination, LGBTQ+ politics, x-phi.
 
 ## Education
 
@@ -46,11 +48,10 @@ a meta-analysis. *European Journal of Social Psychology*, doi: [10.1002/ejsp.285
 - **Balezina** M., Agadullina E. (2022). *Devaluation of women’s bisexual identity: the role of gender, sexuality, and ambivalent sexism*. WP BRP Series: Psychology. [link](https://wp.hse.ru/data/2022/11/12/1727876113/133PSY2022.pdf)
 
 ## Ask me about...
-I am still passionate about many topics from my former educational settings. Feel free to reach out, if you want to know more about the following issues in a more casual manner:
+Despite currently focusing on trans* attitudes and sports policies, I am still very passionate about other issues discussed in social science. I'm very willing to (yap) discuss following themes in a more casual manner:
 
-- The role of colonial medical establishments in the history of sexuality
-- Homonationalism and its downfall in CEE
-- Ambivalent sexism theory: why benevolent sexism is not better
-- Homophobia and national identity in contemporary Russia
+- History of sexuality in light of colonialism
+- Homonationalism and its application in CEE
+- Identity politics, radical queer rights, and the neoliberal subjects
 
 
