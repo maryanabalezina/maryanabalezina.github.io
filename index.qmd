@@ -22,8 +22,7 @@ about:
       href: "mailto:balezina.maryana@gmail.com" 
 ---
 
-:::{#main-part}
-
+::: {#main-part}
 Hi! Welcome to my academic website.
 
 I'm a social science scholar with a background in social psychology and gender studies. I am currently doing my PhD in **political science** at Aarhus University, Denmark.
@@ -37,21 +36,18 @@ I'm a social science scholar with a background in social psychology and gender s
 **CEU** \| Budapest, Hungary & Vienna, Austria <br> MA in Critical Gender Studies <br> Sept 2019 - June 2021
 
 **HSE University** \| Moscow, Russia <br> BA in Psychology <br> Sept 2015 - June 2019
-
 :::
 
 ## Publications
 
-- **Balezina** M., Zakharova S. (2023). Measuring Attitudes Towards Rape in Russia: Translation and Validation of the Illinois Rape Myths Acceptance Scale. *Current Psychology*, doi: [10.1007/s12144-023-04666-2](https://link.springer.com/article/10.1007/s12144-023-04666-2)
-- Agadullina E.R., Lovakov A.V., **Balezina** M., Gulevich O. A. (2022). Ambivalent sexism and violence towards women:
-a meta-analysis. *European Journal of Social Psychology*, doi: [10.1002/ejsp.2855](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.2855)
-- **Balezina** M., Agadullina E. (2022). *Devaluation of women’s bisexual identity: the role of gender, sexuality, and ambivalent sexism*. WP BRP Series: Psychology. [link](https://wp.hse.ru/data/2022/11/12/1727876113/133PSY2022.pdf)
+-   **Balezina** M., Zakharova S. (2023). Measuring Attitudes Towards Rape in Russia: Translation and Validation of the Illinois Rape Myths Acceptance Scale. *Current Psychology*, doi: [10.1007/s12144-023-04666-2](https://link.springer.com/article/10.1007/s12144-023-04666-2)
+-   Agadullina E.R., Lovakov A.V., **Balezina** M., Gulevich O. A. (2022). Ambivalent sexism and violence towards women: a meta-analysis. *European Journal of Social Psychology*, doi: [10.1002/ejsp.2855](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.2855)
+-   **Balezina** M., Agadullina E. (2022). *Devaluation of women's bisexual identity: the role of gender, sexuality, and ambivalent sexism*. WP BRP Series: Psychology. [link](https://wp.hse.ru/data/2022/11/12/1727876113/133PSY2022.pdf)
 
 ## Ask me about...
-Despite currently focusing on trans* attitudes and sports policies, I am still very passionate about other issues discussed in social science. I'm very willing to (yap) discuss following themes in a more casual manner:
 
-- History of sexuality in light of colonialism
-- Homonationalism and its application in CEE
-- Identity politics, radical queer rights, and the neoliberal subjects
+Despite currently focusing on trans\* attitudes and sports policies, I am still very passionate about other issues discussed in social science. I'm very willing to (yap) discuss following themes in a more casual manner:
 
-
+-   History of sexuality in light of colonialism
+-   Homonationalism and its application in CEE
+-   Identity politics, radical queer rights, and the neoliberal subjects
