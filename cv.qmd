@@ -11,7 +11,7 @@ cv:
   pdf: "cv.pdf"
 ---
 
-As of November 2024.
+As of February 2025.
 
 ```{css echo=FALSE}
 .embed-container {
@@ -37,4 +37,3 @@ As of November 2024.
   <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
 </div>
 ```
-
