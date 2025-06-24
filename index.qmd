@@ -23,11 +23,11 @@ about:
 ---
 
 ::: {#main-part}
-Hi! Welcome to my academic website.
+Hi there!
 
-I'm a social science scholar with a background in social psychology and gender studies. I am currently doing my PhD in **political science** at Aarhus University, Denmark.
+I'm a social science scholar with a background in social psychology and gender studies. I am currently doing my PhD in **political science** at Aarhus University, Denmark. In my dissertation, I explore public attitudes to trans inclusion.
 
-**Key interests:** discrimination, LGBTQ+ politics, x-phi.
+**Key interests:** discrimination, LGBTQ+ politics, text-as-data.
 
 ## Education
 
@@ -40,13 +40,34 @@ I'm a social science scholar with a background in social psychology and gender s
 
 ## Publications
 
+### Under review
+
+-   **Balezina** M. To each their sport: support for trans\* inclusion and fair play concerns. Sexuality Research and Social Policy
+
+-   **Balezina** M. Trans\* politics. In Z. Lefkofridi (Ed.), Encyclopedia of Gender and Politics. Edward Elgar Publishing Ltd
+
+### Published
+
 -   **Balezina** M., Zakharova S. (2023). Measuring Attitudes Towards Rape in Russia: Translation and Validation of the Illinois Rape Myths Acceptance Scale. *Current Psychology*, doi: [10.1007/s12144-023-04666-2](https://link.springer.com/article/10.1007/s12144-023-04666-2)
+
 -   Agadullina E.R., Lovakov A.V., **Balezina** M., Gulevich O. A. (2022). Ambivalent sexism and violence towards women: a meta-analysis. *European Journal of Social Psychology*, doi: [10.1002/ejsp.2855](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.2855)
+
 -   **Balezina** M., Agadullina E. (2022). *Devaluation of women's bisexual identity: the role of gender, sexuality, and ambivalent sexism*. WP BRP Series: Psychology. [link](https://wp.hse.ru/data/2022/11/12/1727876113/133PSY2022.pdf)
+
+## Teaching
+
+-   **LGBTQ+ Politics: Identity, Rights and Advocacy**\
+    Elective MA course on critical policy analysis and queer history at the Political Science department of Aarhus University, 10-ECTS
+
+-   **Critical Media Analysis - Inequalities, Power Dynamics, and Identity**\
+    Elective MA course on critical humanities and how it relates to journalism at the ERASMUS Journalism, Media and Globalisation program in Aarhus University
+
+-   **Social Psychology of Prejudice**\
+    Elective MA course on discrimination and prejudice for non-Psychology major students at HSE University
 
 ## Ask me about...
 
-Despite currently focusing on trans\* attitudes and sports policies, I am still very passionate about other issues discussed in social science. I'm very willing to (yap) discuss following themes in a more casual manner:
+Despite currently focusing on trans attitudes, I am still very passionate about other issues discussed in social science. I'm very willing to (yap) discuss following themes in a more casual manner:
 
 -   History of sexuality in light of colonialism
 -   Homonationalism and its application in CEE

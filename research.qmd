@@ -15,14 +15,16 @@ execute:
   fig-height: 9
 ---
 
-## Including trans* athletes: it's not only about prejudice
+## To each their sport: support for trans* inclusion and fair play concerns.
 
-I am currently working on **sport policies** and **trans\* discrimination**. The idea for this research came from a hunch that maybe with some sporting competition, people get agitated about trans* inclusionary policies more often, than in other sports. For example, one would probably not be against inclusion of trans* athletes into a charity race where participant pay a little fee to enter the competition and the money go to a charity; but, if at the end of the race the winner gets all the money, some might show reservation towards trans* inclusion, especially when it comes to trans* women competing against cis women. Following this intuition led me to learning a lot of random facts about sporting competitions, but also to a realization that even people who have negative attitudes towards trans* individuals might still show some support for trans* inclusionary policies under certain conditions.
+I am currently working on **sport policies** and **trans discrimination**. The idea for this research came from a hunch that maybe with some sporting competition, people get agitated about trans* inclusionary policies more often, than in other sports. Following this intuition led me to learning a lot of random facts about sporting competitions, but also to a realization that even people who have negative attitudes towards trans* individuals might still show some support for trans* inclusionary policies under certain conditions.
 
-After 2024 Olympics I conducted a survey experiment in the US, where I asked participants to share their opinion on a proposed policy that regulates participation of trans* athletes. The results somewhat supported my intuition. I am working on the paper draft right now and hopefully will be able to talk about the results more openly at a later point. 
+After 2024 Olympics I conducted a survey experiment in the US, where I asked participants to share their opinion on a proposed policy that regulates participation of trans* athletes. I find that the relationship between trans prejudice and support for inclusion is moderated by considerations related to fairness.
 
-## Fair and/but discriminatory? The role of percieved discrimination in policy support
+The paper got an R&R in **Sexuality Research and Social Policy**.
 
-Another intuition that I had about trans* athletes was that maybe people see some policies as discriminatory, but justifiably discriminatory. For example, one can argue that discriminating against trans* women in sport is required to keep the competition fair. It is wrong to exclude, but under certain conditions it is fair and necessary. This seems somewhat counterintuitive, considering that usually folk call unfair behavior discriminatory (or discriminatory behavior unfair), which indicates that the concepts of discrimination and fairness are tightly connected. But in the hypothetical argument given, it feels like people talk about a different kind of fairness. What do people mean, then, when they say a policy is fair or discriminatory? And does it affect whether people are supportive of a policy?
+## Transgressing sex or gender? Support for trans inclusion in sports across two category frames
 
-I'm still thinking about these question and have yet to find certain answers. I plan to answer these concerns by focusing on sports ethics and discrimination theory literature, as I believe those field can more precisely reflect the meaning behind big concepts like "fairness" in sports. Though, at the end of the day, I enjoy asking folk people and having empirical data, so this is going to be more of an x-phi paper on the relationship between the two concepts in lay people.  
+On January 20, 2025, the White House published a presidential action that aimed to clarify what a “biological reality” of sex is and urging Federal agencies and employees to use “sex” instead of “gender”. "Inspired" by this Executive Order, I investigate whether using "sex"-based vs. "gender"-based language has any effect on support for trans inclusion.
+
+A 2x2 survey experiment is scheduled to run in August 2025. Pre-registration protocol will be posted on OSF in July 2025.
