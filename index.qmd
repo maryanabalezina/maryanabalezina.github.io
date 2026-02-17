@@ -23,15 +23,15 @@ about:
 ---
 
 ::: {#main-part}
-Hi there!
+Hi!
 
-I'm a social science scholar with a background in social psychology and gender studies. I am currently doing my PhD in **political science** at Aarhus University, Denmark. In my dissertation, I explore public attitudes to trans inclusion.
+I'm a social science scholar with a background in social psychology, political science, and gender studies. I am preparing to defend my dissertation at Aarhus University and actively looking for employment opportunities. In my dissertation, I explore public attitudes to trans inclusion. Methodologically, I specialize in survey experiments and computational text analysis.
 
-**Key interests:** discrimination, LGBTQ+ politics, text-as-data.
+**Key interests:** inequality, LGBTQ+ politics, public opinion, attitudes.
 
 ## Education
 
-**Aarhus University** \| Aarhus, Denmark <br> PhD in Political Science <br> Feb 2023 - now
+**Aarhus University** \| Aarhus, Denmark <br> PhD in Political Science <br> Feb 2023 - Feb 2026
 
 **CEU** \| Budapest, Hungary & Vienna, Austria <br> MA in Critical Gender Studies <br> Sept 2019 - June 2021
 
@@ -42,11 +42,16 @@ I'm a social science scholar with a background in social psychology and gender s
 
 ### Under review
 
--   **Balezina** M. To each their sport: support for trans\* inclusion and fair play concerns. Sexuality Research and Social Policy
+-   **Balezina** M. Persuading or mobilizing? Priming effects of “sex” vs. “gender” on support for trans inclusion in sports. Political Behavior.
+
+-   **Balezina** M. Mind the gap: identifying differential support for inclusion of trans men and women. European Journal of Politics and Gender
 
 -   **Balezina** M. Trans\* politics. In Z. Lefkofridi (Ed.), Encyclopedia of Gender and Politics. Edward Elgar Publishing Ltd
 
 ### Published
+
+-   **Balezina** M. (forthcoming in 2026). To each their sport: support for trans inclusion and fair play concerns.
+Sexuality Research and Social Policy
 
 -   **Balezina** M., Zakharova S. (2023). Measuring Attitudes Towards Rape in Russia: Translation and Validation of the Illinois Rape Myths Acceptance Scale. *Current Psychology*, doi: [10.1007/s12144-023-04666-2](https://link.springer.com/article/10.1007/s12144-023-04666-2)
 
@@ -67,8 +72,9 @@ I'm a social science scholar with a background in social psychology and gender s
 
 ## Ask me about...
 
-Despite currently focusing on trans attitudes, I am still very passionate about other issues discussed in social science. I'm very willing to (yap) discuss following themes in a more casual manner:
+Despite currently focusing on trans attitudes, I am still very passionate about other issues discussed in social science, including...
 
+-   Morality politics
 -   History of sexuality in light of colonialism
--   Homonationalism and its application in CEE
--   Identity politics, radical queer rights, and the neoliberal subjects
+-   Homonationalism in CEE
+-   Identity politics and radical queer rights

@@ -15,16 +15,18 @@ execute:
   fig-height: 9
 ---
 
-## To each their sport: support for trans inclusion and fair play concerns
-
-I am currently working on **sport policies** and **trans discrimination**. The idea for this research came from a hunch that maybe with some sporting competition, people get agitated about trans inclusionary policies more often, than in other sports. Following this intuition led me to learning a lot of random facts about sporting competitions, but also to a realization that even people who have negative attitudes towards trans individuals might still show some support for trans inclusionary policies under certain conditions.
-
-After 2024 Olympics I conducted a survey experiment in the US, where I asked participants to share their opinion on a proposed policy that regulates participation of trans athletes. I find that the relationship between trans prejudice and support for inclusion is moderated by considerations related to fairness.
-
-The paper got an R&R in **Sexuality Research and Social Policy**.
+Since I find myself in-between PhD and future research opportunities, my current research interests are a mix of dissertation-related papers and side avenues I have yet to explore. Below, I reflect on some of the published/under review pieces and share some less-developed ideas.
 
 ## Transgressing sex/gender: how frames affect support for trans inclusion in sports
 
 This research was inspired by the [Trump's executive order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/) and the focus on "sex"-based terms, such as male/female and "sex assigned at birth" instead of terms associated with "gender identity". Considering that elite framing matters and can influence political attitudes and behaviors, I test whether using "sex"-based frame vs. "gender"-based frame affects one's support for trans inclusion in sports.
 
 Pre-registration is available on OSF: <https://osf.io/26uzm>
+
+## From "girls" to "women": construction of personal responsibility in gendered public policies (w/ Dr. Mariia Tepliakova)
+
+This co-authored paper is inspired by different ways politicians talk about gendered policies: for example, access to abortions is about "young women", sports rights are about "girls", and parental leave debates are about "women" and "gender inequality". How political actors discursively construct “women” as a category has become a major question across feminist political theory and political communication, with scholars demonstrating that gendered categories are deeply strategic in legislative debate. The problem is, we still know remarkably little about the systematic patterns in how parties deploy different gendered referents — especially the shift between “girls” and “women” — and what ideological work these lexical choices perform in policy conflicts; this lack of knowledge prevents us from fully understanding how gender is instrumentalised within elite discourse. 
+
+Using US Senate and UK parliamentary debates, we construct contextual word embeddings and then link these embeddings to metadata on speakers, issue areas, parties, and time to run embeddings regressions that isolate the latent meaning structure of “girls” versus “women” in abortion, healthcare, sports, and related gender policy areas. By tracing how elites weaponise lexical shifts between “girls” and “women,” this project sheds new light on the neglected mechanism through which gender is coded, moralised, and manipulated through the linguistic micro–morphology of democratic institutions.
+
+
