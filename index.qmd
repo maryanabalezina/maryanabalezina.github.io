@@ -25,7 +25,7 @@ about:
 ::: {#main-part}
 Hi!
 
-I'm a social science scholar with a background in social psychology, political science, and gender studies. I am preparing to defend my dissertation at Aarhus University and actively looking for employment opportunities. In my dissertation, I explore public attitudes to trans inclusion. Methodologically, I specialize in survey experiments and computational text analysis.
+I'm a social science scholar with a background in social psychology, political science, and gender studies. I have recently defended my dissertation at Aarhus University and am actively looking for employment opportunities. In my dissertation, I explore public attitudes to trans inclusion. Methodologically, I specialize in survey experiments and computational text analysis.
 
 **Key interests:** inequality, LGBTQ+ politics, public opinion, attitudes.
 
@@ -42,16 +42,16 @@ I'm a social science scholar with a background in social psychology, political s
 
 ### Under review
 
--   **Balezina** M. Persuading or mobilizing? Priming effects of “sex” vs. “gender” on support for trans inclusion in sports. Political Behavior.
+-   **Balezina** M. Persuading or mobilizing? Priming effects of “sex” vs. “gender” on support for trans inclusion in sports.
 
--   **Balezina** M. Mind the gap: identifying differential support for inclusion of trans men and women. European Journal of Politics and Gender
-
--   **Balezina** M. Trans\* politics. In Z. Lefkofridi (Ed.), Encyclopedia of Gender and Politics. Edward Elgar Publishing Ltd
+-   **Balezina** M. Mind the gap: identifying differential support for inclusion of trans men and women. 
 
 ### Published
 
--   **Balezina** M. (forthcoming in 2026). To each their sport: support for trans inclusion and fair play concerns.
-Sexuality Research and Social Policy
+-   **Balezina** M. (2026). To each their sport: support for trans inclusion and fair play concerns.
+Sexuality Research and Social Policy, doi: [10.1007/s13178-026-01280-2](https://link.springer.com/article/10.1007/s13178-026-01280-2)
+
+-   **Balezina** M. (2026). Trans\* politics. In Z. Lefkofridi (Ed.), Encyclopedia of Gender and Politics. Edward Elgar Publishing Ltd
 
 -   **Balezina** M., Zakharova S. (2023). Measuring Attitudes Towards Rape in Russia: Translation and Validation of the Illinois Rape Myths Acceptance Scale. *Current Psychology*, doi: [10.1007/s12144-023-04666-2](https://link.springer.com/article/10.1007/s12144-023-04666-2)
 
@@ -72,9 +72,10 @@ Sexuality Research and Social Policy
 
 ## Ask me about...
 
-Despite currently focusing on trans attitudes, I am still very passionate about other issues discussed in social science, including...
+Due to my interdisciplinary journey, I find myself to be knowledgeble about topics across a wide range of social sciences. Since I am still passionate about many of them, feel free to reach out regarding the following issues:
 
--   Morality politics
+-   Morality politics and moral foundations
 -   History of sexuality in light of colonialism
 -   Homonationalism in CEE
--   Identity politics and radical queer rights
+-   What makes discrimination wrongful
+-   Ambivalent sexism and violence towards women
