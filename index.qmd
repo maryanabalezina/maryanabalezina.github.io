@@ -25,9 +25,9 @@ about:
 ::: {#main-part}
 Hi!
 
-I'm a social science scholar with a background in social psychology, political science, and gender studies. I have recently defended my dissertation at Aarhus University and am actively looking for employment opportunities. In my dissertation, I explore public attitudes to trans inclusion. Methodologically, I specialize in survey experiments and computational text analysis.
+I'm a social scientist with a background in social psychology, political science, and gender studies. I work at Aarhus University as a postdoc on [CULTS](https://veluxfonden.dk/en/projekt/logic-and-consequences-personality-cults-contemporary-dictatorships-cults) and [AUTOCRISIS](https://ps.au.dk/en/current/allnews/news/artikel/dictator-in-crisis) projects. Methodologically, I specialize in survey experiments and computational text analysis.
 
-**Key interests:** inequality, LGBTQ+ politics, public opinion, attitudes.
+**Key interests:** inequality, LGBTQ+ politics, public opinion, attitudes, authoritarianism.
 
 ## Education
 
